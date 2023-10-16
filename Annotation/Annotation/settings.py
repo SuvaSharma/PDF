@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Annotation.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'F:\Final_Annotation\Annotation\PDFAPP\Templates'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
